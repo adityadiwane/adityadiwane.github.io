@@ -725,7 +725,7 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 480px) {
   .work {
     height: 270px;
-    display: none;
+    visibility: hidden;
   }
 }
 .work .desc {
